@@ -36,3 +36,11 @@
 
 
 
+## 4. 그 외 다른 문제 발생시 
+
+ex\) 팩스문제, as관련 문의 등등
+
+{% page-ref page="as-1/as/undefined-3/" %}
+
+{% page-ref page="as-1/as-1/" %}
+

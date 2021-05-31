@@ -28,6 +28,7 @@
   * [무선 및 랜선으로 연결하신분](as-1/undefined-1/undefined.md)
   * [USB로 연결하신분](as-1/undefined-1/usb.md)
 * [AS 서비스 관련 안내](as-1/as-1/README.md)
+  * [부품비용 및 수리비용 안내](as-1/as-1/undefined-1.md)
   * [택배 AS 안내](as-1/as-1/as-2.md)
   * [내방AS 안내](as-1/as-1/as-1.md)
   * [출장AS 서비스](as-1/as-1/as.md)
