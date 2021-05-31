@@ -5,6 +5,13 @@
 ## AS 관련 <a id="as-1"></a>
 
 * [증상별 자가 AS 방법](as-1/as/README.md)
+  * [팩스 관련 문제 모음](as-1/as/undefined-3/README.md)
+    * [팩스 메모리 부족 문제](as-1/as/undefined-3/undefined-1.md)
+    * [팩스 송수신 안될때](as-1/as/undefined-3/undefined.md)
+  * [호환되지않는 카트리지](as-1/as/undefined-4.md)
+  * [헤드문제 떴을때](as-1/as/untitled-5.md)
+  * [잉크가 프린터 외부로 샐때 조치방법](as-1/as/untitled-4.md)
+  * [출력물이 혼색되어 나옵니다. \(혹은 잉크가 샙니다.\)](as-1/as/.-3.md)
   * [출력물에 선이 그어져서 나옵니다.](as-1/as/.-2.md)
   * [드라이버 설치 방법](as-1/as/undefined-2.md)
   * [원하지 않는 출력물이 나옵니다. \( 특수문자 등등 \)](as-1/as/.-1.md)
