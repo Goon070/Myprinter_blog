@@ -66,6 +66,7 @@
 
 ## 프린터 사용가이드
 
+* [기종 별 메뉴얼](undefined/undefined-4.md)
 * [스캔](undefined/untitled.md)
 * [팩스](undefined/undefined-2.md)
 * [연결방법](undefined/undefined/README.md)
