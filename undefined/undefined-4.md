@@ -16,7 +16,7 @@
 
 [http://h10032.www1.hp.com/ctg/Manual/c03682037](http://h10032.www1.hp.com/ctg/Manual/c03682037)
 
-## 7110 메뉴
+## 7110 메뉴얼
 
 [http://h10032.www1.hp.com/ctg/Manual/c03628720](http://h10032.www1.hp.com/ctg/Manual/c03628720)
 
