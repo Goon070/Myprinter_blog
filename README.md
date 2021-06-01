@@ -40,6 +40,10 @@
 
 ex\) 팩스문제, as관련 문의 등등
 
+
+
+{% page-ref page="as-1/as/" %}
+
 {% page-ref page="as-1/undefined-2/" %}
 
 {% page-ref page="as-1/as/undefined-3/" %}

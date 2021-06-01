@@ -66,7 +66,6 @@
 
 ## 프린터 사용가이드
 
-* [기종 별 메뉴얼](undefined/undefined-4.md)
 * [스캔](undefined/untitled.md)
 * [팩스](undefined/undefined-2.md)
 * [연결방법](undefined/undefined/README.md)
@@ -74,9 +73,10 @@
   * [고정아이피 설정하는 방법](undefined/undefined/undefined.md)
 * [통합설치방법](undefined/undefined-1/README.md)
   * [T120 / T520 드라이버 설치방법](undefined/undefined-1/t120-t520.md)
-* [호환드라이버 설치방법](undefined/undefined-3.md)
+  * [호환드라이버 설치방법](undefined/undefined-1/undefined-3.md)
 
 ## 자료실 <a id="undefined-1"></a>
 
+* [기종 별 메뉴얼](undefined-1/undefined-4.md)
 * [드라이버 다운로드 링크](undefined-1/untitled.md)
 
