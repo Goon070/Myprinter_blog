@@ -16,13 +16,13 @@
 
 {% embed url="https://drive.google.com/file/d/1uvBD8duofcG9s6iTqIm9qfBpuM28dCEu/view" caption="6962 드라이버 64비트" %}
 
-## 고속기 드라이
+## 고속기 드라이버.
 
 {% embed url="https://drive.google.com/file/d/1ng5meTs1mwx13-EWDRkiPbhsbeH9s9Dz/view" %}
 
 {% embed url="https://drive.google.com/file/d/1vYDYiwo7rXZ8-Ekmr7ShWKtkXQot2qIR/view" %}
 
-## 플로터 드라이
+## 플로터 드라이버.
 
 {% embed url="https://drive.google.com/file/d/1fYIoopVsMZTrx\_L5ec8Rs7NnOt\_AJkCG/view" caption="T120 드라이버 32비트" %}
 
@@ -32,7 +32,7 @@
 
 {% embed url="https://drive.google.com/file/d/1moWzZW9FryBowAIwG6uJYjyba8N23T09/view" caption="T520 드라이버 64비트" %}
 
-## 그 외 드라이버 모음은 아래 링크 클
+## 그 외 드라이버 모음은 아래 링크 클릭.
 
 {% embed url="http://www.hprinter.co.kr/article/%EC%9E%90%EB%A3%8C%EC%8B%A4/7/710/" %}
 
