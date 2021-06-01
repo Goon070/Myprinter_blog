@@ -1,12 +1,12 @@
 # 프린터 기종별 석션하는 방법
 
-### 8710 / 8210 / 7720 / 7740 석션영
+### 8710 / 8210 / 7720 / 7740 석션영상.
 
 {% embed url="https://www.youtube.com/watch?v=NYQ4kuUKtgY" %}
 
 ### 
 
-### 7110 / 7612 석션영
+### 7110 / 7612 석션영상.
 
 {% embed url="https://www.youtube.com/watch?v=vJ6tG0MijMU" %}
 
