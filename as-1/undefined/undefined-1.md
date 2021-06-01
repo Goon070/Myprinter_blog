@@ -6,5 +6,13 @@
 
 {% page-ref page="../as/undefined-2.md" %}
 
+## 재설치 이후에도 문제가 생기는 분은 아래 영상을 참고해서 '해당모델명 + PCL-3'이라고 붙어있는 드라이버로 재설치 해주세요. \( 아래 영상 1분 부근 나옵니다. \)
+
+{% embed url="https://youtu.be/WB0P\_cscI7Y" %}
+
+## 드라이버 재설치 이후에도 문제가 생기는 분은 아래 영상 참고해주세요.
+
+{% embed url="https://www.youtube.com/watch?v=yPNqi\_H56jQ" %}
+
 
 
