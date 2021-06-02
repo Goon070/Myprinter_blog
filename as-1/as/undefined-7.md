@@ -1,4 +1,4 @@
-# 용지걸림 해결방법
+# 용지걸림 해결방법 \( 캐리지 걸림 \)
 
 {% embed url="https://youtu.be/RKSeIGvPfzk" %}
 
@@ -14,5 +14,11 @@
 
 {% page-ref page="../as-1/" %}
 
+## 캐리지걸림이 뜹니다.
 
+{% page-ref page="../undefined-2/7110/7110-1.md" %}
+
+{% page-ref page="../undefined-2/7612/7612-1.md" %}
+
+{% page-ref page="../undefined-2/7740-7720/7720-7740.md" %}
 
