@@ -8,7 +8,9 @@
 
 {% page-ref page="undefined-4.md" %}
 
+![&#xC0C1;&#xB2E8; &#xC624;&#xB978;&#xCABD; &#xAC80;&#xC0C9;&#xBC84;&#xD2BC;](../../.gitbook/assets/.png%20%2813%29.png)
 
+* 그 외 오류메시지는 상단 오른쪽에 검색버튼에서 검색해서 조치하시면됩니다.
 
 
 

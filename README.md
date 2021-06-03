@@ -8,12 +8,17 @@
 
 {% page-ref page="as-1/undefined/" %}
 
-## 
+## 컴퓨터와 연결이 끊겼을때
 
-![&#xC778;&#xC1C4;&#xD488;&#xC9C8;&#xBCF4;&#xACE0;&#xC11C; &#xCD9C;&#xB825;&#xD558;&#xB294; &#xBC29;&#xBC95;](.gitbook/assets/.gif.gif)
+{% page-ref page="as-1/undefined-1/" %}
 
-* 인쇄품질보고서는 일단 출력해보신 다음 출력물 상태가 불량하다면 2번 '인쇄품질이 불량한 경우' 를 참고해주세요.  \( 설정 -&gt; 보고서 -&gt; 인쇄품질보고서 \)
-* 인쇄품질보고서는 제대로 나오지만 컴퓨터에서 프린트하면 안나오는 경우 아래의 링크로 들어가 조치해주세요.
+## 용지걸림이 발생했을때
+
+{% page-ref page="as-1/as/undefined-7.md" %}
+
+## 그 외 오류메시지는 상단 오른쪽에 검색버튼에서 검색해서 조치하시면됩니다.
+
+![&#xCD5C;&#xC0C1;&#xB2E8; &#xC624;&#xB978;&#xCABD; &#xAC80;&#xC0C9;&#xBC84;&#xD2BC; \( &#xC774;&#xBBF8;&#xC9C0; \)](.gitbook/assets/.png%20%2814%29.png)
 
 
 
