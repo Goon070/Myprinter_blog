@@ -16,3 +16,9 @@
 
 {% page-ref page="../as/.-3.md" %}
 
+## 보고서 품질은 괜찮지만 컴퓨터에서 프린트하는 출력물에 문제가 있습니다.
+
+{% page-ref page="undefined-1.md" %}
+
+
+
