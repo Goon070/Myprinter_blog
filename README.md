@@ -8,7 +8,7 @@
 
 {% page-ref page="as-1/undefined/" %}
 
-## 컴퓨터와 연결이 끊겼을때
+## 컴퓨터와 연결이 끊겼을때 \( 출력이 안될때 \)
 
 {% page-ref page="as-1/undefined-1/" %}
 

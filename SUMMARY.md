@@ -1,6 +1,7 @@
 # Table of contents
 
 * [AS 블로그 사용가이드](README.md)
+* [자주 묻는 질문](undefined-2.md)
 
 ## AS 관련 <a id="as-1"></a>
 
@@ -31,7 +32,7 @@
   * [인쇄품질 보고서의 품질이 안좋을때](as-1/undefined/undefined-2.md)
   * [특정파일이나 프로그램에서 인쇄품질 불량한경우](as-1/undefined/undefined-1.md)
   * [프린터 기종별 석션하는 방법](as-1/undefined/undefined.md)
-* [컴퓨터와 프린터의 연결이 끊겼을때](as-1/undefined-1/README.md)
+* [컴퓨터와 프린터의 연결이 끊겼을때 \( 출력이 안됩니다. \)](as-1/undefined-1/README.md)
   * [무선 및 랜선으로 연결하신분](as-1/undefined-1/undefined.md)
   * [USB로 연결하신분](as-1/undefined-1/usb.md)
 * [AS 서비스 관련 안내](as-1/as-1/README.md)
