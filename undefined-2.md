@@ -20,5 +20,7 @@
 
 {% page-ref page="as-1/as-1/" %}
 
+## 인쇄품질이 불량합니다.
 
+{% page-ref page="as-1/undefined/" %}
 

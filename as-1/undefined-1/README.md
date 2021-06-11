@@ -18,7 +18,7 @@
 
 ## 보고서가 잘 나오지 않는 분은 아래 링크로 넘어가주세요.
 
-![&#xC798; &#xC548;&#xB098;&#xC628; &#xC778;&#xC1C4;&#xD488;&#xC9C8;&#xBCF4;&#xACE0;&#xC11C;](../../.gitbook/assets/.png%20%2817%29.png)
+![&#xC798; &#xC548;&#xB098;&#xC628; &#xC778;&#xC1C4;&#xD488;&#xC9C8;&#xBCF4;&#xACE0;&#xC11C;](../../.gitbook/assets/.png%20%2818%29.png)
 
 {% page-ref page="../undefined/undefined-2.md" %}
 
