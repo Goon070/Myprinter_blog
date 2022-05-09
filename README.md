@@ -2,29 +2,32 @@
 
 ## 오류메시지가 떠있는 경우
 
-{% page-ref page="as-1/as/" %}
+{% content-ref url="as-1/as/" %}
+[as](as-1/as/)
+{% endcontent-ref %}
 
 ## 인쇄품질이 불량한 경우
 
-{% page-ref page="as-1/undefined/" %}
+{% content-ref url="as-1/undefined/" %}
+[undefined](as-1/undefined/)
+{% endcontent-ref %}
 
-## 컴퓨터와 연결이 끊겼을때 \( 출력이 안될때 \)
+## 컴퓨터와 연결이 끊겼을때 ( 출력이 안될때 )
 
-{% page-ref page="as-1/undefined-1/" %}
-
-## 컴퓨터에서 프린트시 출력이 안되는 경우 \( 연결끊김 \)
-
-{% page-ref page="as-1/undefined-1/" %}
+{% content-ref url="as-1/undefined-1/" %}
+[undefined-1](as-1/undefined-1/)
+{% endcontent-ref %}
 
 ## 용지걸림이 발생했을때
 
-{% page-ref page="as-1/as/undefined-7.md" %}
+{% content-ref url="as-1/as/undefined-7.md" %}
+[undefined-7.md](as-1/as/undefined-7.md)
+{% endcontent-ref %}
 
 ## 그 외 오류메시지는 상단 오른쪽에 검색버튼에서 검색해서 조치하시면됩니다.
 
-![&#xCD5C;&#xC0C1;&#xB2E8; &#xC624;&#xB978;&#xCABD; &#xAC80;&#xC0C9;&#xBC84;&#xD2BC; \( &#xC774;&#xBBF8;&#xC9C0; \)](.gitbook/assets/.png%20%2814%29.png)
+![최상단 오른쪽 검색버튼 ( 이미지 )](<.gitbook/assets/.png (14).png>)
 
-{% page-ref page="as-1/undefined-1/" %}
-
-## 그 외 사항은 오른쪽 상단 '검색버튼'을 통해 검색 후 조치해주세요.
-
+{% content-ref url="as-1/undefined-1/" %}
+[undefined-1](as-1/undefined-1/)
+{% endcontent-ref %}

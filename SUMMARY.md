@@ -3,12 +3,12 @@
 * [AS 블로그 사용가이드](README.md)
 * [자주 묻는 질문](undefined-2.md)
 
-## AS 관련 <a id="as-1"></a>
+## AS 관련 <a href="#as-1" id="as-1"></a>
 
 * [증상별 자가 AS 방법](as-1/as/README.md)
-  * [관공서, 민원서류 \( 정부24, 홈텍스 등등\) 출력 불가 뜨는경우](as-1/as/24.md)
+  * [관공서, 민원서류 ( 정부24, 홈텍스 등등) 출력 불가 뜨는경우](as-1/as/24.md)
   * [스캔이나 복사 시 출력물이 이상합니다.](as-1/as/.-6.md)
-  * [용지걸림 해결방법 \( 캐리지 걸림 \)](as-1/as/undefined-7.md)
+  * [용지걸림 해결방법 ( 캐리지 걸림 )](as-1/as/undefined-7.md)
   * [영문으로 나올때 한글로 설정하기](as-1/as/undefined-5.md)
   * [팩스 관련 문제 모음](as-1/as/undefined-3/README.md)
     * [팩스 확인보고서 및 오류보고서 끄기](as-1/as/undefined-3/undefined-3.md)
@@ -17,10 +17,10 @@
   * [호환되지않는 카트리지](as-1/as/undefined-4.md)
   * [헤드문제 떴을때](as-1/as/untitled-5.md)
   * [잉크가 프린터 외부로 샐때 조치방법](as-1/as/untitled-4.md)
-  * [출력물이 혼색되어 나옵니다. \(혹은 잉크가 샙니다.\)](as-1/as/.-3.md)
+  * [출력물이 혼색되어 나옵니다. (혹은 잉크가 샙니다.)](as-1/as/.-3.md)
   * [출력물에 선이 그어져서 나옵니다.](as-1/as/.-2.md)
   * [드라이버 설치 방법](as-1/as/undefined-2.md)
-  * [원하지 않는 출력물이 나옵니다. \( 특수문자 등등 \)](as-1/as/.-1.md)
+  * [원하지 않는 출력물이 나옵니다. ( 특수문자 등등 )](as-1/as/.-1.md)
   * [소모품시스템문제](as-1/as/undefined.md)
   * [카트리지 문제 발생시](as-1/as/undefined-1/README.md)
     * [칩 교체방법](as-1/as/undefined-1/undefined-2.md)
@@ -32,7 +32,7 @@
   * [인쇄품질 보고서의 품질이 안좋을때](as-1/undefined/undefined-2.md)
   * [특정파일이나 프로그램에서 인쇄품질 불량한경우](as-1/undefined/undefined-1.md)
   * [프린터 기종별 석션하는 방법](as-1/undefined/undefined.md)
-* [컴퓨터와 프린터의 연결이 끊겼을때 \( 출력이 안됩니다. \)](as-1/undefined-1/README.md)
+* [컴퓨터와 프린터의 연결이 끊겼을때 ( 출력이 안됩니다. )](as-1/undefined-1/README.md)
   * [무선 및 랜선으로 연결하신분](as-1/undefined-1/undefined.md)
   * [USB로 연결하신분](as-1/undefined-1/usb.md)
 * [AS 서비스 관련 안내](as-1/as-1/README.md)
@@ -61,7 +61,7 @@
     * [7720 / 7740 액정화면 분해조립](as-1/undefined-2/7740-7720/7720-7740-1.md)
     * [A3 스캔 설정 방법](as-1/undefined-2/7740-7720/a3-1.md)
     * [7720 / 7740 선정리 방법](as-1/undefined-2/7740-7720/7720-7740.md)
-    * [용지함 설정 방법 \( A3 \)](as-1/undefined-2/7740-7720/a3.md)
+    * [용지함 설정 방법 ( A3 )](as-1/undefined-2/7740-7720/a3.md)
   * [8210](as-1/undefined-2/8210/README.md)
     * [8210 헤드청소하는 방법](as-1/undefined-2/8210/8210.md)
     * [8210 헤드잉크주입 방법](as-1/undefined-2/8210/8210-1.md)
@@ -73,12 +73,11 @@
 * [연결방법](undefined/undefined/README.md)
   * [USB 연결 시 다른 컴퓨터와 공유해서 사용하는 방법](undefined/undefined/usb.md)
   * [고정아이피 설정하는 방법](undefined/undefined/undefined.md)
-* [통합설치방법](undefined/undefined-1/README.md)
+* [통합설치방법(2022)](undefined/undefined-1/README.md)
   * [T120 / T520 드라이버 설치방법](undefined/undefined-1/t120-t520.md)
   * [호환드라이버 설치방법](undefined/undefined-1/undefined-3.md)
 
-## 자료실 <a id="undefined-1"></a>
+## 자료실 <a href="#undefined-1" id="undefined-1"></a>
 
 * [기종 별 메뉴얼](undefined-1/undefined-4.md)
 * [드라이버 다운로드 링크](undefined-1/untitled.md)
-
